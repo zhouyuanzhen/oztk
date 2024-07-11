@@ -22,3 +22,4 @@ oztk-demo = "oztk.demo:demo"
 
 [project.urls]
 Homepage = "https://github.com/zhouyuanzhen/oztk"
+Issues = "https://github.com/zhouyuanzhen/oztk/issues"
